@@ -1,9 +1,9 @@
 # Team Working Agreement
 
 ## Team members
-- Member 1: [Name / student number / GitHub username]
-- Member 2: [Name / student number / GitHub username]
-- Member 3: [Name / student number / GitHub username]
+- Member 1: Thabani Ndlozi
+- Member 2: Anele Nkayi
+- Member 3: Lebogang Masia
 
 ## Communication
 - Primary channel: [ ]
