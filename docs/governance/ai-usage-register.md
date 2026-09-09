@@ -2,4 +2,5 @@
 
 | Date | Student | Tool | Engineering task | AI contribution | Verification | Decision | Issues found |
 |---|---|---|---|---|---|---|---|
-| | | | | | | | |
+| 2026-09-08 | Anele Nkayi | ChatGPT | M1 stakeholder, scope and constraints analysis | Assisted with reviewing and structuring the problem/business need, stakeholder analysis, scope baseline, constraints and assumptions against the supplied CivicConnect project briefs. | Compared the suggestions against the Master Project Brief and Milestone 1 Brief, reviewed the wording manually, and accepted or revised the content before finalising the document. | Accepted with modifications after review. | Some AI wording initially differed from the wording in the working document. This was identified and corrected so that the final approved wording was retained. |
+| 2026-09-09 | Anele Nkayi | ChatGPT | Convert approved M1 stakeholder, scope and constraints content into controlled GitHub artefacts | Assisted with converting the approved PED sections into Markdown files and organising them into the existing stakeholder-scope-constraints folder. | Compared the Markdown content against the final approved PED and previewed the files in GitHub before committing them. | Accepted after verification. | No content changes accepted during conversion; formatting was changed only where required for Markdown. |
