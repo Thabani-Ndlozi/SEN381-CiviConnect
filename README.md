@@ -6,9 +6,9 @@ Community Service Request Management Platform
 Milestone 1 — Engineering Foundation & Requirements Baseline
 
 ## Team
-- Member 1: Thabani Ndlozi — GitHub: @Thabani-Ndlozi
-- Member 2: Anele Nkayi — GitHub: @aceoroal
-- Member 3: Lebogang Masia — GitHub: @Lebogang-G-Masia
+- Member 1: [Thabani Ndlozi](https://github.com/Thabani-Ndlozi)
+- Member 2: [Anele Nkayi](https://github.com/aceroal)
+- Member 3: [Lebogang Masia](https://github.com/Lebogang-G-Masia)
 
 ## Repository purpose
 This repository is the controlled engineering evidence environment for the SEN381 CivicConnect project.
